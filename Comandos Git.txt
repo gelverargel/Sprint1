@@ -1,0 +1,10 @@
+git init     Para inicializar como repositorio
+ 
+git add .    Para agregar todos los archivos
+
+git config --global user.email "gelverargel@gmail.com"
+
+git config --global user.name "gelverargel"
+
+
+git commit -m "regsitroinicial"
